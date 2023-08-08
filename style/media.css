@@ -1,0 +1,14 @@
+@media (max-width: 620px) {
+    .container .row .col {
+        width: 50%;
+    }
+    .container-input .input-box .col {
+        width: 100%;
+    }
+}
+
+@media (max-width: 450px) {
+    .container .row .col {
+        width: 100%;
+    }
+}
